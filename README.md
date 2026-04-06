@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-rouge-alpha-12.vercel.app/">
+  <a href="https://shahanaz-portfolio.vercel.app/">
     🌐 Portfolio
   </a> • 
   <a href="https://github.com/shahanaz842">
