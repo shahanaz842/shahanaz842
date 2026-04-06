@@ -66,7 +66,7 @@ Next.js app with SSR and dynamic routing
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahanaz842&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=7C3AED" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahanaz842&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=7C3AED" />
 </p>
 
 <p align="center">
